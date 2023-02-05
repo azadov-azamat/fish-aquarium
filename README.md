@@ -6,11 +6,13 @@ baliqlar sotib oldi. Lekin baliqlarga qarash uchun Tomning yetarlicha bo’sh va
 Shuning uchun Tom akvariumda sodir bo’layotgan har bir jarayonni yozib boruvchi dastur
 tuzishga qaror qildi va yordam uchun sizga murojaat qildi. Sizning vazifangiz Tomga dastur
 tuzishda yordam berish.
+
 Dasturga bo’lgan talablar:
 - Barcha qiymatlar Random orqali aniqlanishi kerak.
 - Collections lardan foydalanish kerak.
 - Har bir baliq alohida Thread da bo’lishi kerak.
 - Har bir sodir bo’layotgan jarayon haqida Console da xabar chiqish kerak.
+
 Eslatma:
 - Dastur tuzish vaqtida akvariumda N ta erkak va M ta urg’ochi baliqlar bor edi. N va M
 qiymati ham Random orqali aniqlanadi.
